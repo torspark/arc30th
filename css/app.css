@@ -1,5 +1,37 @@
-button, .button {
-  background-color: slategray;
-  border-color: slategray;
+/***Defaults***/
+@font-face {
+  font-family: 'Rye';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Rye Regular'), local('Rye-Regular'), url(http://fonts.gstatic.com/s/rye/v4/cnvRxMXQXvUsqaWt48bZQA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+.rodeo {
+  font-family: 'Rye';
+}
+body {
+  background-image: url('../img/dark_cherry_wood_1600x1000.jpg');
   color: whitesmoke;
+}
+a {
+  color: #2151A8;
+}
+h1, h3 {
+  color: whitesmoke;
+}
+.center {
+  text-align: center;
+}
+
+/***Images***/
+#arc30logo {
+  background-image: url('../img/arc30_logo_273x300.png');
+  height: 300px;
+  width: 273px;
+  margin: 20px auto 10px;
+}
+#invitation {
+  background-image: url('../img/invitation_434x600.png');
+  height: 600px;
+  width: 434px;
 }
