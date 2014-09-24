@@ -24,6 +24,11 @@ h1, h3 {
   text-align: center;
 }
 
+#rsvp-modal-link {
+  border: 2px solid whitesmoke;
+  padding: 10px;
+}
+
 /***Images***/
 #arc30logo {
   background-image: url('../img/arc30_logo_273x300.png');
