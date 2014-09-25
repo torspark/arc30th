@@ -10,8 +10,8 @@
   font-family: 'Rye';
 }
 body {
-  background-image: url('../img/dark_cherry_wood_1600x1000.jpg');
-  //background-image: url('../img/english-walnut-sealed.jpg');
+  //background-image: url('../img/dark_cherry_wood_1600x1000.jpg');
+  background-image: url('../img/english-walnut-sealed.jpg');
   color: whitesmoke;
 }
 a {
