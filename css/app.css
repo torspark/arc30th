@@ -11,9 +11,8 @@
 }
 body {
   background-image: url('../img/english-walnut-sealed.jpg');
-  color: whitesmoke;
 }
-h1, h3 {
+h1, .white {
   color: whitesmoke;
 }
 .center {
