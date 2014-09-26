@@ -13,9 +13,6 @@ body {
   background-image: url('../img/english-walnut-sealed.jpg');
   color: whitesmoke;
 }
-a {
-  color: #2151A8;
-}
 h1, h3 {
   color: whitesmoke;
 }
@@ -33,10 +30,5 @@ h1, h3 {
   background-image: url('../img/arc30_logo_273x300.png');
   height: 300px;
   width: 273px;
-  margin: 20px auto 10px;
-}
-#invitation {
-  background-image: url('../img/invitation_434x600.png');
-  height: 600px;
-  width: 434px;
+  margin: 20px auto;
 }
